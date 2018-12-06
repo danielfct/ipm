@@ -8,7 +8,7 @@ import { cardTitle, title } from "assets/jss/ipm.jsx";
 import avatar from "assets/images/avatar.jpg";
 import imagesStyle from "assets/jss/components/imagesStyles.jsx";
 import classNames from "classnames";
-import Typography from "@material-ui/core/es/Typography/Typography";
+import Typography from "@material-ui/core/Typography/Typography";
 import SvgGithub from "../../assets/icons/SvgGithub";
 import {People} from "@material-ui/icons";
 import Button from "@material-ui/core/Button/Button";
